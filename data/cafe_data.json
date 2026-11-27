@@ -1,0 +1,25 @@
+{
+  "cafe_name": "Campus Brew Cafe",
+  "hours": {
+    "Monday": "8:00 AM - 8:00 PM",
+    "Tuesday": "8:00 AM - 8:00 PM",
+    "Wednesday": "8:00 AM - 8:00 PM",
+    "Thursday": "8:00 AM - 8:00 PM",
+    "Friday": "8:00 AM - 9:00 PM",
+    "Saturday": "9:00 AM - 9:00 PM",
+    "Sunday": "9:00 AM - 6:00 PM"
+  },
+  "location": "Ground Floor, Student Activity Centre, University Campus",
+  "contact": "+91 98765 43210",
+  "menu": [
+    {"name":"Espresso","price":90,"category":"Coffee","allergens":[],"dietary":["vegan","vegetarian"]},
+    {"name":"Cappuccino","price":140,"category":"Coffee","allergens":["milk"],"dietary":["vegetarian"]},
+    {"name":"Cafe Latte","price":150,"category":"Coffee","allergens":["milk"],"dietary":["vegetarian"]},
+    {"name":"Masala Chai","price":80,"category":"Tea","allergens":["milk"],"dietary":["vegetarian"]},
+    {"name":"Lemon Iced Tea","price":110,"category":"Tea","allergens":[],"dietary":["vegan","vegetarian"]},
+    {"name":"Veg Grilled Sandwich","price":170,"category":"Food","allergens":["wheat/gluten","milk"],"dietary":["vegetarian"]},
+    {"name":"Paneer Wrap","price":190,"category":"Food","allergens":["wheat/gluten","milk"],"dietary":["vegetarian"]},
+    {"name":"Chocolate Brownie","price":120,"category":"Dessert","allergens":["wheat/gluten","milk","egg"],"dietary":[]}
+  ],
+  "allergen_notice": "Recipes and preparation areas may involve shared equipment. We cannot guarantee any item is completely free from allergens or cross-contact. For a severe allergy, please speak directly with cafe staff before ordering."
+}
