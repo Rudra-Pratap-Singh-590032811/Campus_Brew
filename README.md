@@ -56,12 +56,4 @@ python3 -m venv .venv
 - `docs/failure_log.md`: 12-question failure analysis
 - `tests/test_app.py`: automated tests
 
-## IMPORTANT ASSESSMENT NOTES
 
-The café details are **illustrative, not verified real-world facts**. Replace the menu, hours, location, and contact in `data/cafe_data.json` with approved real data before using with real customers. Do not use this demo for actual allergy clearance.
-
-This is a **real working local web application**, but it is **not a ChatGPT Custom GPT**. The prompt's explicit “custom GPT” deliverable requires configuring a separate GPT in ChatGPT; see `docs/CUSTOM_GPT_SETUP.md` for a ready-to-paste configuration. The application itself works without ChatGPT, accounts, or API keys. Google Fonts and the decorative café photo are optional online assets; functionality works without them.
-
-## LMS SUBMISSION
-
-Upload the entire ZIP with source code, README, report, failure log, tests, and launcher. Demonstrate the running UI and a few safety test questions in your viva.
